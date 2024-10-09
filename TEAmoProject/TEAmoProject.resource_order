@@ -1,7 +1,12 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Managers","order":2,"path":"folders/Objects/Managers.yy",},
+  ],
   "ResourceOrderSettings": [
     {"name":"s_col2","order":1,"path":"sprites/s_col2/s_col2.yy",},
+    {"name":"o_Camera","order":1,"path":"objects/o_Camera/o_Camera.yy",},
+    {"name":"TileSet7","order":3,"path":"tilesets/TileSet7/TileSet7.yy",},
+    {"name":"t_DoorsStairs","order":2,"path":"tilesets/t_DoorsStairs/t_DoorsStairs.yy",},
     {"name":"t_Col2","order":1,"path":"tilesets/t_Col2/t_Col2.yy",},
   ],
 }
