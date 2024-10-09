@@ -59,6 +59,7 @@
     {"id":{"name":"r_Int","path":"rooms/r_Int/r_Int.yy",},},
     {"id":{"name":"r_Parent","path":"rooms/r_Parent/r_Parent.yy",},},
     {"id":{"name":"t_Col2","path":"tilesets/t_Col2/t_Col2.yy",},},
+    {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
     {"id":{"name":"rm_Teste","path":"rooms/rm_Teste/rm_Teste.yy",},},
   ],
   "RoomOrderNodes": [

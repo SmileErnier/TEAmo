@@ -8,5 +8,6 @@
     {"name":"TileSet7","order":3,"path":"tilesets/TileSet7/TileSet7.yy",},
     {"name":"t_DoorsStairs","order":2,"path":"tilesets/t_DoorsStairs/t_DoorsStairs.yy",},
     {"name":"t_Col2","order":1,"path":"tilesets/t_Col2/t_Col2.yy",},
+    {"name":"Sprite10","order":2,"path":"sprites/Sprite10/Sprite10.yy",},
   ],
 }
