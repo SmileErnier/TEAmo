@@ -57,6 +57,7 @@
     {"id":{"name":"s_T_WallsFloors","path":"sprites/s_T_WallsFloors/s_T_WallsFloors.yy",},},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},},
     {"id":{"name":"r_Int","path":"rooms/r_Int/r_Int.yy",},},
+    {"id":{"name":"f_Font1","path":"fonts/f_Font1/f_Font1.yy",},},
     {"id":{"name":"r_Parent","path":"rooms/r_Parent/r_Parent.yy",},},
     {"id":{"name":"t_Col2","path":"tilesets/t_Col2/t_Col2.yy",},},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
